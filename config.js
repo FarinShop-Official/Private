@@ -3,7 +3,7 @@
 
 module.exports = {
   // Bisa isi langsung di sini, atau pakai ENV BOT_TOKEN di Pterodactyl.
-  BOT_TOKEN: process.env.BOT_TOKEN || '8243434233:AAHB9dKgcw6NMrwSwBMi_rwYhqk8tQEx9sc',
+  BOT_TOKEN: process.env.BOT_TOKEN || '',
 
   // Ganti dengan @username channel kamu
   CHANNELS: [
