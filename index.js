@@ -530,10 +530,10 @@ async function sendMainMenu(ctx, page = 1, edit = false) {
     }
   }
 
-let text = `<b>[👋]𝖮𝗅𝖺𝖺 ☇ ${username}</b>\n`;
+let text = `<b>[👋] 𝖮𝗅𝖺𝖺 ☇ ${username}</b>\n`;
   text += '<blockquote>Selamat datang di bot <b>HIJAB PEMERSATU</b> Saya di sini bertugas untuk memberi kalian semua bahan Video yang gacor dan free ya pastinya.</blockquote>\n\n';
   text += '<b>Silakan pilih video yang ada di sini:</b>\n';
-  text += '────────────────────────\n';
+  text += '───────────────────────\n';
 
   pageItems.forEach((vid, index) => {
     const nomor = startIdx + index + 1;
