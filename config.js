@@ -9,7 +9,7 @@ module.exports = {
   CHANNELS: [
   '@farinnewera',
   '@pemersatubangsareall',
-  '@testimadress'
+  '@info_pemersatubngsa'
 ],
 
   WITHDRAW_CHANNEL: '@pemersatubangsareall',   // 👈 channel log penarikan
